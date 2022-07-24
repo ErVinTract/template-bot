@@ -37,7 +37,12 @@ python3 -m bot
 2. Edit text's in *.ftl
    Example:
 
-'''
+```shell
 welcome-text = Hello, { $user }
-other-text = Description of this product: { $description }
-'''
+    Where are you? 
+    How are you?
+    What time is it?
+
+other-text = Description of this product:
+    { $description }
+```
