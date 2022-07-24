@@ -39,10 +39,5 @@ python3 -m bot
 
 '''bash
 welcome-text = Hello, { $user }
-    Where are you? 
-    How are you?
-    What time is it?
-
-other-text = Description of this product:
-    { $description }
+other-text = Description of this product: { $description }
 '''
