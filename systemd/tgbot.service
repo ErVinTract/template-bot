@@ -1,0 +1,16 @@
+[Unit]
+Description=Template Bot
+After=network.target
+After=postgresql.service
+Requires=postgresql.service
+
+[Service]
+User=user
+Group=tgbot
+Type=simple
+WorkingDirectory=/home/tgbot
+ExecStart=/home/tgbot/venv/bin/python bot.py
+Restart=always
+
+[Install]
+WantedBy=multi-user.target

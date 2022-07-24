@@ -1,0 +1,14 @@
+[tg_bot]
+token = 
+admin_id = 777000
+use_redis = false
+
+[db]
+user = 
+password = 
+database = 
+host = 
+
+[throttling]
+default = 2
+main = 1

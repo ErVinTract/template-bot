@@ -1,0 +1,5 @@
+aiogram==2.20
+aioredis==2.0.1
+asyncpg==0.25.0
+fluentogram==1.0.28
+cachetools==5.0.0
