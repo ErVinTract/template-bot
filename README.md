@@ -49,4 +49,4 @@ other-text = Description of this product:
 
 ##### Help in code:
     - tg: @prostmich in i18n 
-    - **tg: @tishka17 for the basiс code**
+    - @tishka17 for the basiс code
