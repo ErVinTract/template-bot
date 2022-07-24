@@ -14,7 +14,7 @@ Each part can be replaced keeping the overall structure the same :)
 pip install -U setuptools pip 
 ```
 
-3. Install all the libraries necessary for the bot to work
+3. Install all the libraries necessary for the bot to work.
 
 ```shell
 pip install -r requirements.txt
@@ -28,7 +28,7 @@ pip install -r requirements.txt
 python3 -m bot
 ```
 
-6. Edit systemd service file and copy it to a proper location
+6. Edit systemd service file and copy it to a proper location.
 
 ### How to use i18n
 
@@ -37,7 +37,7 @@ python3 -m bot
 2. Edit text's in *.ftl
    Example:
 
-'''bash
+'''
 welcome-text = Hello, { $user }
 other-text = Description of this product: { $description }
 '''
