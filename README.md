@@ -37,7 +37,7 @@ python3 -m bot
 2. Edit text's in *.ftl
    Example:
 
-'''shell
+'''bash
 welcome-text = Hello, { $user }
     Where are you? 
     How are you?
