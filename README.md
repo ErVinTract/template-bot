@@ -46,3 +46,7 @@ welcome-text = Hello, { $user }
 other-text = Description of this product:
     { $description }
 ```
+
+##### Help in code:
+    - tg: @prostmich in i18n 
+    - **tg: @tishka17 for the basiс code**
